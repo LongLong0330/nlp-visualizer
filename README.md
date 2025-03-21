@@ -7,7 +7,3 @@ A simple NLP-powered application that provides text data analysis and visualizat
 ✅ Extracts **top keywords** using TF-IDF  
 ✅ Performs **sentiment analysis** to classify text as positive/negative  
 
-## 🚀 Setup & Installation
-1. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
